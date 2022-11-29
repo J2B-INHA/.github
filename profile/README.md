@@ -53,9 +53,6 @@ AWS t2.small 인스턴스 <span style="color: yellow">(RAM 용량 2GB)</span>를
 # ⛓️ 프로젝트 전체 구성도
 ![프로젝트 흐름도](https://user-images.githubusercontent.com/66549638/204513680-251b05ae-7dfc-4afe-8be9-20374b3a6345.png)
 
-# 🗺️ ERD
-![J2B_NFT_INHA (4)](https://user-images.githubusercontent.com/66549638/203796825-4bf3c75a-c891-4318-bb9f-2261ef5f9e51.png)
-
 
 # 🧑‍💻 프로젝트를 진행하면서 겪은 과정들
 

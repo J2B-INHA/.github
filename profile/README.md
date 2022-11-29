@@ -79,7 +79,7 @@ AWS t2.small 인스턴스 <span style="color: yellow">(RAM 용량 2GB)</span>를
 
     https://chominho96.github.io/spring/multipartFile.transferTo()-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%98%B8%EC%B6%9C-%ED%9B%84-InputStream-consume-%EC%9D%B4%EC%8A%88/
 
-6. ProcessBuilder 관련 Deadlock 이슈 - 
+6. ProcessBuilder 관련 Deadlock 이슈 - 민호
 
     https://chominho96.github.io/spring/ProcessBuilder-Deadlock-%EC%9D%B4%EC%8A%88/
     
